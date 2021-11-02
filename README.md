@@ -1,4 +1,4 @@
-## Exemplo Volume de Dados - Docker
+### Minha primeira imagem - Docker
 
 <strong>Curso Alura:</strong> [Docker: Criando containers sem dor de cabeça](https://cursos.alura.com.br/course/docker-e-docker-compose)
 
