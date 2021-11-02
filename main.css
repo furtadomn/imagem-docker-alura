@@ -12,8 +12,14 @@ body{
 
 h1{
     color: #FFFFFF;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Times New Roman', Times, serif;
     font-size: 5em;   
-     padding-top: 20%; 
+    padding-top: 20%; 
+}
 
+h2{
+    color: #c9c9c9;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 2em;
+    font-style: oblique;   
 }
